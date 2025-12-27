@@ -22,4 +22,4 @@ https://claude.ai/new?q=your%20question%20here
 This way one could create automated queries.
 
 2. Opening a project:
-https://claude.ai/project/alphanumerical-project-code
+https://claude.ai/project/<alphanumerical-project-code>
